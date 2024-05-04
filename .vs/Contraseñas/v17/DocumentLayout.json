@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bayro\\OneDrive\\Documentos\\UCA\\ING INFORM\u00C1TICA\\Contrase\u00F1as\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B745743E-3285-4236-90D0-9901F5A7235D}|Contrase\u00F1as.csproj|c:\\users\\bayro\\onedrive\\documentos\\uca\\ing inform\u00E1tica\\contrase\u00F1as\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B745743E-3285-4236-90D0-9901F5A7235D}|Contrase\u00F1as.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B745743E-3285-4236-90D0-9901F5A7235D}|Contrase\u00F1as.csproj|C:\\Users\\bayro\\OneDrive\\Documentos\\UCA\\ING INFORM\u00C1TICA\\Contrase\u00F1as\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B745743E-3285-4236-90D0-9901F5A7235D}|Contrase\u00F1as.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B745743E-3285-4236-90D0-9901F5A7235D}|Contrase\u00F1as.csproj|C:\\Users\\bayro\\OneDrive\\Documentos\\UCA\\ING INFORM\u00C1TICA\\Contrase\u00F1as\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B745743E-3285-4236-90D0-9901F5A7235D}|Contrase\u00F1as.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B745743E-3285-4236-90D0-9901F5A7235D}|Contrase\u00F1as.csproj|C:\\Users\\bayro\\OneDrive\\Documentos\\UCA\\ING INFORM\u00C1TICA\\Contrase\u00F1as\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B745743E-3285-4236-90D0-9901F5A7235D}|Contrase\u00F1as.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bayro\\OneDrive\\Documentos\\UCA\\ING INFORM\u00C1TICA\\Contrase\u00F1as\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\bayro\\OneDrive\\Documentos\\UCA\\ING INFORM\u00C1TICA\\Contrase\u00F1as\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T05:11:22.19Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\bayro\\OneDrive\\Documentos\\UCA\\ING INFORM\u00C1TICA\\Contrase\u00F1as\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\bayro\\OneDrive\\Documentos\\UCA\\ING INFORM\u00C1TICA\\Contrase\u00F1as\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T05:11:12.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\bayro\\OneDrive\\Documentos\\UCA\\ING INFORM\u00C1TICA\\Contrase\u00F1as\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\bayro\\OneDrive\\Documentos\\UCA\\ING INFORM\u00C1TICA\\Contrase\u00F1as\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:19:24.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\bayro\\OneDrive\\Documentos\\UCA\\ING INFORM\u00C1TICA\\Contrase\u00F1as\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\bayro\\OneDrive\\Documentos\\UCA\\ING INFORM\u00C1TICA\\Contrase\u00F1as\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:13:16.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

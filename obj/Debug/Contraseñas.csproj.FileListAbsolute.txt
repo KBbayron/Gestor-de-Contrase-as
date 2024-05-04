@@ -1,0 +1,188 @@
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\obj\Debug\Contraseñas.csproj.AssemblyReference.cache
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\obj\Debug\Contraseñas.Form1.resources
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\obj\Debug\SecureKeyGen.Properties.Resources.resources
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\obj\Debug\Contraseñas.csproj.GenerateResource.cache
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\obj\Debug\Contraseñas.csproj.CoreCompileInputs.cache
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\SecureKeyGen.exe.config
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\SecureKeyGen.exe.manifest
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\SecureKeyGen.application
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\SecureKeyGen.exe
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\SecureKeyGen.pdb
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\obj\Debug\SecureKeyGen.exe.manifest
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\obj\Debug\SecureKeyGen.application
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\obj\Debug\SecureKeyGen.exe
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\obj\Debug\SecureKeyGen.pdb
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\obj\Debug\Contraseñas.Form2.resources
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\obj\Debug\Contraseñas.Inicio.resources
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Azure.Core.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Azure.Identity.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Buffers.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Memory.Data.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Memory.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Security.AccessControl.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Security.Permissions.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Text.Json.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.ValueTuple.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Azure.Core.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Azure.Identity.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Buffers.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Memory.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Memory.Data.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Security.AccessControl.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Security.Permissions.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Text.Json.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\System.ValueTuple.xml
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Escritorio\Contraseñas\obj\Debug\Contraseñas.csproj.CopyComplete
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\SecureKeyGen.exe.config
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\SecureKeyGen.exe.manifest
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\SecureKeyGen.application
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\SecureKeyGen.exe
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\SecureKeyGen.pdb
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Azure.Core.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Azure.Identity.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Buffers.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Memory.Data.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Memory.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Security.AccessControl.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Security.Permissions.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Text.Json.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.ValueTuple.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Azure.Core.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Azure.Identity.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Buffers.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Memory.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Memory.Data.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Security.AccessControl.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Security.Permissions.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Text.Json.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.ValueTuple.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\obj\Debug\Contraseñas.csproj.AssemblyReference.cache
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\obj\Debug\Contraseñas.Form1.resources
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\obj\Debug\SecureKeyGen.Properties.Resources.resources
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\obj\Debug\Contraseñas.csproj.GenerateResource.cache
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\obj\Debug\Contraseñas.csproj.CoreCompileInputs.cache
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\obj\Debug\SecureKeyGen.exe.manifest
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\obj\Debug\SecureKeyGen.application
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\obj\Debug\SecureKeyGen.exe
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\obj\Debug\SecureKeyGen.pdb
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\obj\Debug\Contrase.BFA0673F.Up2Date
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\obj\Debug\SecureKeyGen.Form2.resources
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Google.Protobuf.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\MySql.Data.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.ClientModel.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.IO.Pipelines.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\ZstdSharp.dll
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Google.Protobuf.pdb
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\Google.Protobuf.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\MySql.Data.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.ClientModel.xml
+C:\Users\bayro\OneDrive\Documentos\UCA\ING INFORMÁTICA\Contraseñas\bin\Debug\System.IO.Pipelines.xml
